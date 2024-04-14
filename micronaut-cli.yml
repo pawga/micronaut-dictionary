@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.pawga
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, data, data-r2dbc, flyway, gradle, http-client, jdbc-hikari, kapt, kotest, kotlin, kotlin-application, kotlin-extension-functions, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, postgres, r2dbc, reactor, reactor-http-client, readme, serialization-jackson, shade, static-resources, swagger-ui, test-resources, yaml, yaml-build]
